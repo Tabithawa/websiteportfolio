@@ -3,8 +3,12 @@ img {
 }
 body {
     background-image: url(plant.jpg);
+    padding: 20px;
 }
 div {
     background-color: rgb(109, 151, 111);
 
+}
+.title {
+    padding: 20px;
 }
