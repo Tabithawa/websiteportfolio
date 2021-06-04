@@ -6,6 +6,6 @@ The project is my portfolio that has an about me section about me and my contact
 
 You can fork the repository and view it with a browser or code editor
 
-ITS LINK HERE
+The link to view the site : https://tabithawa.github.io/websiteportfolio/
 
 The licence to the website is included in the repository.
