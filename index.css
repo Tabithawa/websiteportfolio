@@ -19,8 +19,18 @@ div {
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
+    
 
 }
 .footer {
     padding: 20px;
 }
+.cp{
+    float: right;
+}
+
+@media screen and (min-width:480px ){
+    body{
+        background-color: greenyellow;
+    }
+}   
