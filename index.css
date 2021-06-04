@@ -1,5 +1,6 @@
 img {
     border: 5px solid gray;
+    float: right;
 }
 body {
     background-image: url(plant.jpg);
