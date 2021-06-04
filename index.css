@@ -1,7 +1,7 @@
 img {
     border: 5px solid gray;
-    float: right;
     border-radius: 50%;
+    height: 70px;
 }
 body {
     background-image: url(plant.jpg);
@@ -13,6 +13,7 @@ div {
 }
 .title {
     padding: 20px;
+    text-align: center;
 }
 .about{
     padding: 20px;
